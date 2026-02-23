@@ -1,0 +1,7 @@
+ollama
+edge-tts
+dotenv
+langgraph
+langchain_openai
+langchain_community
+pyowm
